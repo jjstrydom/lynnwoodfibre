@@ -4,12 +4,9 @@
 # Site settings
 title: Lynnwood Fibre Initiative
 description: |
-  A community driven project
-  to bring fast and affordable
-  fibre internet to Lynnwood
-  and surrounding suburbs
-  |
-  Fibre provided by [Frogfoot](www.frogfootfibre.com)
+  A community driven project to bring fast and affordable
+  fibre internet to Lynnwood and surrounding suburbs.  
+  Fibre provided by [Frogfoot](http://www.frogfootfibre.com).
 owner: Jurgen Strydom # or company name
 first_published: 2015 # if migrating another site, the year of your first publish
 email: jurgen@lynnwoodfibre.com
